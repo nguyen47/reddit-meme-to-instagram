@@ -1,0 +1,33 @@
+{
+  "name": "reddit-meme-to-instagram",
+  "version": "1.0.0",
+  "description": "A simple bot automatically posting meme from reddit r/meme to instagram",
+  "main": "index.ts",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "download": "^7.1.0",
+    "instagram-private-api": "^1.33.0",
+    "jimp": "^0.8.5",
+    "path": "^0.12.7",
+    "readme-md-generator": "^0.7.0",
+    "snoowrap": "^1.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyen47/reddit-meme-to-instagram.git"
+  },
+  "keywords": [
+    "instagram",
+    "reddit"
+  ],
+  "author": "Nguyen Hoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyen47/reddit-meme-to-instagram/issues"
+  },
+  "homepage": "https://github.com/nguyen47/reddit-meme-to-instagram#readme"
+}
