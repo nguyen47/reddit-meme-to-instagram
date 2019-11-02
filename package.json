@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "ts-node index.js"
+    "start": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
