@@ -36,8 +36,8 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 exports.__esModule = true;
-var reddit_1 = require("./reddit");
-var instagram_1 = require("./instagram");
+var reddit_1 = require("./src/reddit");
+var instagram_1 = require("./src/instagram");
 var fs = require("fs");
 var download = require("download");
 var path = require("path");

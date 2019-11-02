@@ -1,5 +1,5 @@
-import { getRandomPostFromSubredditMeme } from "./reddit";
-import { postImageToInstagram } from "./instagram";
+import { getRandomPostFromSubredditMeme } from "./src/reddit";
+import { postImageToInstagram } from "./src/instagram";
 
 const fs = require("fs");
 const download = require("download");

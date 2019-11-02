@@ -27,6 +27,9 @@ npm install
 ```sh
 npm run start
 ```
+## Instagram
+
+* Instagram: [@rmeme47](https://instagram.com/rmeme47)
 
 ## Author
 
